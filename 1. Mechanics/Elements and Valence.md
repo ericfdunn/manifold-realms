@@ -12,7 +12,6 @@ There are seven #elements that make up the world. The first six in combination m
 | #Wood  | Adaptation, growth | poison, piercing  |
 | #Void  | Space, binding | necrotic, force  |
 
-
 ## Color Confinement
 
 Individual #elements do not occur in isolation, they are always bound in groups of two or three by the #void element. There are two ways elements may come in existence:
@@ -20,9 +19,9 @@ Individual #elements do not occur in isolation, they are always bound in groups 
 1. **An opposing pair forming nonliving matter**
 	An element comes into existence with its opposite and can never be fully separate from it or it will cease to exist. An element's opposite is not an ideological or physical opponent, but more a fact of existence.
 2. **A triplet of three different colors forming a living being**
-	Living beings are more than simple matter, they are a synthesis of many different energies to have a life force and karma. The three colors combine to form the white, animating light of life. If any of the colors was missing, the being would die or become a ghost. The color of an element can vary, allowing a living being to be composed of any three non-opposing elements (8 combinations).
-![[Elements wheel.svg]]
+	Living beings are more than simple matter, they are a synthesis of many different energies to have a life force and karma. The three colors combine to form the white, animating light of life. If any of the colors was missing, the being would die or become a ghost. The color of an element can vary, allowing a living being to be composed of any three non-opposing elements (8 combinations). 
 
+![Elements Wheel](<Images/Elements Wheel.svg>)
 ### Elemental Opposition Pairs
 
 | Element | Opposite | Inert Form | Existence |

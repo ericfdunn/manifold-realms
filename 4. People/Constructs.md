@@ -6,9 +6,9 @@ Constructed from the remains of a living creature, these constructs benefit from
 >[!abstract] Medium Zombie
 >	_Medium #construct_
 >
-**Armor class** 8  
-**Hit points** 22 (3d8 + 9)  
-**Speed** 20 ft.
+> **Armor class** 8  
+> **Hit points** 22 (3d8 + 9)  
+> **Speed** 20 ft.
 >```
 >STR    DEX    CON    INT    WIS    CHA
 >13(+1) 6(-2)  16(+3) 3(-4)  6(-2)  5(-3)
@@ -28,9 +28,9 @@ Constructed from the remains of a living creature, these constructs benefit from
 >[!abstract] Large Zombie
 >	_Large #construct_
 >
-**Armor class** 8  
-**Hit points** 85 (9d10 + 36) 
-**Speed** 30 ft.
+> **Armor class** 8  
+> **Hit points** 85 (9d10 + 36) 
+> **Speed** 30 ft.
 >```
 >STR    DEX    CON    INT    WIS    CHA
 >19(+4) 6(-2) 18(+4) 3(-4) 6(-2)  5(-3)
