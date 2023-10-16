@@ -11,26 +11,33 @@ Certain locations on adjacent planes "overlap" more than others. In rare cases, 
 ## The Planes
 The major planes, from hightest to lowest.
 ### Elysia
-![Elysia](<Images/banner-plane1.jpg>)
+![Elysia](</Images/banner-plane1.jpg>)
+
 Elysia or Apeiron is widely considered to be a myth or even hypothetical place, as no records of visitors are known. Information gathered through deduction and divination describes the flat ground made of course regolith and still water, the cosmos looms above, and the horizon is only visible as a faint glow. Scholars suggest that time might flow variably here, or not at all, and no one knows what travel on this plane could mean.
 ### Kleos
-![Kleos](<Images/banner-plane2.jpg>)
+![Kleos](</Images/banner-plane2.jpg>)
+
 Kleos is an ancient realm where the passage of time has left the detritius of countless eons. Since this is the uppermost inhabited plane, hundreds of years pass here for every year on Earth. During this long history, a diverse number of kingdoms have risen and fallen, spanning otherwordly landscapes of plains, seas, and islands in the sky. Current inhabitants range from utopian enclaves of celestial beings living on engineered skyships to mutated insectoids crawling deserts that were scortched of life a hundred times over. The one thing they all have in common is an strong adherence to the principles and hard-won knowledge that have maintained them so long.
 ### Skai
-![Skai](<Images/banner-plane3.jpg>)
+![Skai](</Images/banner-plane3.jpg>)
+
 Skai is the highlands of the highest peaks and rolling hills atop the clouds that pass over Earth. Home to ancient Elven kingdoms, Dwarven enlaves, and mysterious societies of Giants. Although Skai also experienced the Ice Age, the long-lived people here have created societies and works far beyond those of Earth below. Still, they compare themselves to the legends of Kleos and struggle against eachother to attain the greatest heights. Time and distances are about four times greater than those on Earth, but the gravity is slightly less, which makes it suitable for the larger Giants.
 ### Earth
-![Earth](<Images/banner-plane4.jpg>)
+![Earth](</Images/banner-plane4.jpg>)
+
 A familiar place where humans have lived for countless generations. It is believed that the wizards of ancient Earth were the ones that split the planes, bringing the heavens down and precipitating an Ice Age that covered the entire planet for an age. It has now been about a thousand years since the end of that age, and there is still much for the growing societies of humans to discover about their past and their neighboring planes.
 ### Maya
-![Maya](<Images/banner-plane5.jpg>)
+![Maya](</Images/banner-plane5.jpg>)
+
 Maya has a strong presence of natural forces and strange creatures, the sky is a haze above
 the trees of enchanted forests and mysterious sea floors. It is home to elemental fey spirits and humanoid animal folk that make their homes in the wilderness or clustered in small villages. The dynamic environment of Maya forces the inhabitants here to strive for harmony with the natural cycles. Although Maya was not frozen, the Ice Age was felt here, and as a result of that and the slower passage of time, the societies are still quite young and look up to those on Earth with curiosity. 
 ### Naraka
-![Naraka](<Images/banner-plane6.jpg>)
+![Naraka](</Images/banner-plane6.jpg>)
+
 Naraka is subterranean networks, active volcanoes with lakes of lava, crystalline caves, and fathomless depths. The ground shakes with tectonic activity and the industry of those that extract the great wealth of ores, gems, and magical resources. This is the natural environment of Dragons, Orcs, Demons, and other opportunists that compete viciously to make the most of this difficult place where space is limited and even the gravity is oppressive. Time is not on your side in Naraka either, as every day here a month passes on Earth. A fact that agitates further confict and greed.
 ### Arkhe
-![Arkhe](<Images/banner-plane7.jpg>)
+![Arkhe](</Images/banner-plane7.jpg>)
+
 Arkhe is a dark, primal place. Ancient entropic forces are still young here due to the stillness of time. A wind washes over the surface of loose gravel; ash and pumice rain from the sky, which is the glowing accretion of dark star. There are no known living inhabitants here, probably just ghosts that haunt the surface and Other things much worse besides. Philosophers argue whether Arkhe is the source or resting point for all the souls that pass through the Manifold Realms, but all agree that no mortal being would survive a trip there.
 ## Planar Statistics
 
