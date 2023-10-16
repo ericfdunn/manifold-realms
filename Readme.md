@@ -24,7 +24,7 @@ Throughout the wiki, there will be several types of callouts:
 - [License](</License.md>)
 - [References](</References.md>)
 ### 1. Mechanics
-- [Cosmology](</1. Mechanics/Cosmology>)
+- [Cosmology](</1. Mechanics/Cosmology.md>)
 - [Elements and Valence](<//1. Mechanics/Elements and Valence.md>)
 - [Theory of Magic](</1. Mechanics/Theory of Magic.md>)
 ### 2. Rules
