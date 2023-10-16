@@ -4,7 +4,11 @@ The Manifold Realms is a fantasy RPG setting inspired by, but not a simulation o
 
 Game rules assume a basis in D&D 5e for the d20 system and overall scaling, but many optional rules and spell definitions are suggested here.
 ## Using this reference
-Most of the pages in this wiki are at a stage of just being notes, or early drafts of ideas. I will mark the pages that are up to date with a note (updated). Throughout the wiki, there will be several types of callouts: 
+*This repository is an Obsidian vault. While it is intended to be readable by any markdown client, including the built in Github markdown reader, it is best to view it in Obsidian. Clone the repo and import it as a vault into your Obsidian client.*
+
+Most of the pages in this wiki are at an early stage of development, some are just notes or ideas. Check the commit comments to see what is most up to date. 
+
+Throughout the wiki, there will be several types of callouts: 
 
 > [!Info] Behind the Scenes
 > Sources of inspiration and references for the material.
