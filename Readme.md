@@ -37,8 +37,6 @@ Throughout the wiki, there will be several types of callouts:
 - [Spell Effects](</2. Rules/Spell Effects.md>)
 #### Characters
 - [Character Creation](</2. Rules/Characters/Character Creation.md>)
-- [Generated Spells](</2. Rules/Characters/Generated Spells.md>)
-- [Spell Generation](</2. Rules/Characters/Spell Generation.md>)
 - [Techniques](</2. Rules/Characters/Techniques.md>)
 ### 4. People
 - [Animals](</4. People/Animals.md>)
@@ -47,6 +45,5 @@ Throughout the wiki, there will be several types of callouts:
 - [Fey Creatures](</4. People/Fey Creatures.md>)
 - [Generated Monsters](</4. People/Generated Monsters.md>)
 - [Legendary People](</4. People/Legendary People.md>)
-- [Silverleaf People](</4. People/Silverleaf People.md>)
 ### Images
 - [References](</Images/References.md>)

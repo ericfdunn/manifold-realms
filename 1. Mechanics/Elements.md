@@ -96,31 +96,3 @@ To summon a creature with intelligence, the specific individual must be known an
 ## Elemental Magic?
 
 
-# Valence
-Every living being has karma and valence, which are products of its journey through lifetimes. Karma is the total potential of the being, and it can be increased or decreased through it's lifetime, but the result of the change will not come until rebirth. The Valence indicates the plane where you were born. The planes are numbered from bottom to top.
-
-| Valence | Plane | Note |
-|---------|-------|------|
-| 0 | #Arkhe | only ghosts |
-| 1 | #Naraka |
-| 2 | #Maya |
-| 3 | #Urth |
-| 4 | #Skai |
-| 5 | #Kleos |
-| - | #Elysia | liberation |
-
-## Samsara
-The path of valence between lifetimes is said to follow a defined set of steps.   the same pattern as the periodic table, starting at the lowest karma (energy) and cycling through the valences as it moves progressively higher.
-
-| Karma         | Valence     | # Lives |
-|--------------|-----------|------------|
-| 0 | 0 (Arkhe) | ghost      |
-| 1 | 1 (Hell) | 1  |
-| 2 | 1 (Hell) | 1  |
-| 2 | 2 (Fey)  | 3  |
-| 4 | 1 (Hell) | 1  |
-| 4 | 3 (Fey)  | 3  |
-| 3 | 2 (Fey)  | 3  |
-
-
-After death, a quark's valence may move up or down its journey through increase, decrease, or remain the same based on the karma of that lifetime. 

@@ -1,10 +1,5 @@
-## Action Points
-
-When you roll initiative, you get 1 action point (if you were not surprised).
-
-At the end of your turn, you lose any remaining actions and gain 3 action points. Most common things take one action, but repeating the same thing twice in a turn costs an extra action.
-
-When it's not your turn, you can spend one action point to take a reaction. Action points spent this way are no longer available on your turn. So, you will always get three total action points to take in a round, either on your turn or between them.
+## Actions in A Round
+Standard, bonus, move, and reaction
 
 ## Actions in Combat
 

@@ -8,6 +8,12 @@ If multiple effects impose the same condition on a creature, each instance of th
 
 A creature either has a condition or doesn’t. The following definitions specify what happens to a creature while it is subjected to a condition.
 
+
+> [!Info] Changes from 5e
+> Stunned and Paralyzed are less severe and are moved into a condition
+> Added Burned to have a condition that's relevant to fire and acid damage
+> Changed Exhaustion so it's not a cummulative effect that's hard to remember
+> Reduced the conditions that cause you to lose a turn
 ### Blinded
 - A blinded creature can’t see and automatically fails any ability check that requires sight.
 - Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
@@ -15,6 +21,7 @@ A creature either has a condition or doesn’t. The following definitions specif
 ### Burned
 A burned creature has a harder time healing. The next healing effect either magical or through spending hit dice, does no healing but removes the burned condition. If the healing effect does multiple dice of healing, the healing is reduced by one die and the burned condition is removed.
 
+Alternate: lose 1 hd
 ### Charmed
 - A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
 - The charmer has advantage on any ability check to interact socially with the creature.
@@ -23,24 +30,18 @@ A burned creature has a harder time healing. The next healing effect either magi
 - **Half Cover:** A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a  low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
 - **Three-quarters Cover:** A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
 - **Total Cover:** A target with total cover can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
-
-### Dazed
-- You can Move or take one Action on your turn, not both. You also can’t take a Bonus Action or a Reaction
-
 ### Deafened 
 - A deafened creature can’t hear and automatically fails any ability check that requires hearing.
 
 ### Exhausted
-- This Condition is  cumulative. Each time you receive it, you gain 1 level of exhaustion. You die if your exhaustion level exceeds 6.  
-- When you make an ability check or save, you subtract your exhaustion level from the d20 roll. 
+- This Condition is cumulative. Each time you receive it, you gain 1 level of exhaustion. You die if your exhaustion level exceeds 6.  
+- When you make an ability check, save, or character dice check, you subtract your exhaustion level from the d20 roll. 
 - Subtract your exhaustion level from the Spell save DC of any Spell you cast.
-- Add your exhaustion level to the DC of Character Dice checks.
 - Finishing a Long Rest removes 1 of your levels of exhaustion. When your exhaustion level reaches 0, you are no longer Exhausted.
 
-Alternate rule: when exhausted, you lose one character die
+Alternate rule: when exhausted, you lose one power die or technique die. If you have none left, you become incapacitated. Choose one die to lose or roll all of them and pick form the highest results.
 
-Alternate rule: Character dice become spent if you roll higher than the max - exhaustion level
-
+Alternate rule: Character dice become spent if you roll higher than their max - exhaustion level. If all your character dice are spent, you become incapacitated.
 
 ### Frightened
 - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
@@ -64,6 +65,8 @@ Alternate rule: Character dice become spent if you roll higher than the max - ex
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+
+Alternate (physical attack): A paralyzed creature can't move, drops anything it was holding, and can't take reactions. Attack rolls against the creature have advantage and any attacks have disadvantage.
 
 ### Petrified
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
@@ -99,6 +102,7 @@ Alternate rule: Character dice become spent if you roll higher than the max - ex
 
 Alternate: A Stunned creature can Move or take one Action on your turn, not both. You also can’t take a Bonus Action or a Reaction and can't concentrate on spells.
 
+Alternate (mental attack): A stunned creature cannot speak, cast spells, concentrate on spells, or take reactions.  Attack rolls against the creature have advantage and any attacks have disadvantage.
 ### Unconscious
 - An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings
 - The creature drops whatever it’s holding and falls prone.

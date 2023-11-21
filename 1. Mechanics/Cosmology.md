@@ -1,8 +1,8 @@
 # The Planes of the Manifold Realms
 
-Something happened thousands of years ago that changed the course of time, and space! The people of Earth lost this history after a long ice age. There were the arcane arts of the ancient past, but now there are new ways people can use magical powers and there is a curiously close relationship with other worlds above and below. 
+Something happened thousands of years ago that changed the course of time and space! The people of Earth lost this history after a long ice age. There were the arcane arts of the ancient past, but now there are new ways people can use magical powers and there is a curiously close relationship with other worlds above and below. 
 
-Earth, the prime material plane, lies in the middle layer of the planes. As you move to the planes above or below, the world becomes increasingly different in a number of ways. Time flows down from the upper planes, so many days pass there for each day in a lower plane. However, the presence of magic is greater in the lower planes and this means that spells and magical effects will be more powerful there. 
+Earth (the prime material plane) lies in the middle layer of the planes. As you move to the planes above or below, the world becomes increasingly different in a number of ways. Time flows down from the upper planes, so many days pass there for each day in a lower plane. On the other hand, the presence of magic is greater in the lower planes and this means that spells and magical effects will be more powerful there. 
 
 > [!Info] The Physics of the Planes
 > The differences between the planes are due to effects in line with Einstein's Theory of Relativity. When something is more massive or moving faster, its internal clock slows down and it shortens in the direction of movement. The magnitude of this effect is called the Lorentz factor, and that's what differs between the planes. Mass and velocity alone, however, could not produce a Lorrentz factor sufficient to make the different passage of time noticeable without also creating a crushing gravitational force or flinging the world apart. Instead, we add a cosmological constant to create the desired effects on each plane and reduce the speed of light to greatly increase the observed difference due to these changes. The cosmological constant on each plane is caused by the amount of magical energy present on that plane, see [[Theory of Magic]] for more on that, and the lowered speed of light will have a number of interesting effects that will be described elsewhere.
@@ -104,7 +104,7 @@ Each plane has been uniquely shaped by its histroy and the presence of the magic
 > - Urth: Low fantasy, ancient and medieval world history
 > - Maya: fairy tales, Mesoamerican history, Shadowfell, Feywild, Plane of Water
 > - Naraka: the Underdark, Plane of Fire, Plane of Earth, Abyss, Hell
-> - Arkhe: Cosmic horror, Far Realm, Ethereal Plane, Limbo 
+> - Arkhe: Cosmic horror, Far Realm, Ethereal Plane, Limbo, negative energy plane
 
 
 
