@@ -1,16 +1,79 @@
 # The Elements
 
-There are seven #elements that make up the world. The first six in combination make up all mater, while the #void element surrounds and binds them together. Each element represents a philosophical essence of a substance or being, not necessarily their true composition. The elements are more strongly associated with energies of certain types.
- 
-| Element | Essence | Energy |
+The seven elements embody the animating forces of the world and the philosophical balance between thelm. All natural, living, and magical forces are composed of one or more of the elements. There are six primary elements forming three pairs of opposites, and the final element, #void, which exists outside of the elements and binds them together.  Scholars of the elements identify the patterns of the natural transformation of the elements and practicioners of the magical arts take advantage of these relationships to enhance the effects of their spells.
+
+![Elements Cycle](<Images/Elements-cycle-hex.png>)
+
+| Element | Essence | Generation |
 |---------|-----------|------------|
-| #Earth | Solidity, support | force, bludgeoning  |
-| #Water | Motion, potential | acid, cold  |
-| #Fire  | Action, consumption | fire, radiant  |
-| #Air   | Change, creativity | cold, thunder  |
-| #Metal | Quality, attainment | lightning, slashing  |
-| #Wood  | Adaptation, growth | poison, piercing  |
-| #Void  | Space, binding | necrotic, force  |
+| #Earth | Stability, support, resiliance | Collects Water  |
+| #Water | Adaptability, potential, accumulation | Grows Wood  |
+| #Wood  | Growth, strength, creation | Releases Air  |
+| #Air   | Movement, change, creativity | Kindles Fire  |
+| #Fire  | Action, passion, consumption | Refines Metal  |
+| #Metal | Structure, discipline, attainment | Nourishes Earth  |
+| #Void  | Space, binding, transcendence | Binds Elements  |
+
+#### Earth
+- **Characteristics**: Stability, grounding, materiality, nourishment, and physicality.
+- **Influence on Mind/Self**: Earth types are pragmatic, reliable, and possess a strong sense of duty and realism. They value tradition and consistency.
+- Spells of Earth element draw upon stability, grounding, and the strength of the earth. They encompass spells that shape the earth or manipulate rocks and minerals, provide defensive or protective barriers, grant abilities of enhanced endurance or resilience, and enable abilities to sense or communicate with the earth itself.
+#### Water
+- **Characteristics**: Fluidity, adaptability, gathering energy, and introspection.
+- **Influence on Mind/Self**: Water types are reflective, calm, and adaptable. They are deeply intuitive, often gathering energy and strength from within before acting.
+- Spells of Water element harness the fluidity of emotions and the adaptable nature of water. They include spells that manipulate water, create healing or soothing effects, allow for shape-shifting or transformation, and grant abilities to adapt to different situations or environments.
+#### Wood
+- **Characteristics**: Growth, creation, strength, and resilience.
+- **Influence on Mind/Self**: Wood types are creators and nurturers, with a strong connection to life and natural growth. They are resilient and have a powerful physical presence.
+- Spells of Wood element tap into the energy of growth and vitality. They encompass spells that manipulate plant life, promote healing and rejuvenation, enhance natural resilience or stamina, grant abilities related to plant-based camouflage or communication, and provide spells that summon creatures or allies from the natural world.
+#### Air
+- **Characteristics**: Movement, change, agility, and freedom.
+- **Influence on Mind/Self**: Air types are adaptable, restless, and constantly seeking change and new experiences. They value flexibility and are often seen as unpredictable and spontaneous.
+- Spells of Air element harness the freedom of movement and the subtle power of winds. They include spells that create gusts of wind or manipulate air currents, grant abilities of flight or enhanced mobility, provide divination or insight through the whispering winds, and bestow powers of inspiration or mental clarity.
+#### Fire
+- **Characteristics**: Passion, energy, transformation, and outward expression.
+- **Influence on Mind/Self**: Fire types are energetic, passionate, and often driven by the desire to express themselves and transform the world around them.
+- Spells of Fire element channel the intense passion and transformative power of flames. They include spells that conjure fire or flames, deal damage through fiery explosions or radiant energy, enable transmutation or rapid movement, and grant abilities to inspire or embolden others.
+#### Metal
+- **Characteristics**: Structure, discipline, intellect, and clarity.
+- **Influence on Mind/Self**: Metal types are analytical, strategic, and highly organized. They value clarity of thought and are often methodical in their approach.
+- Spells of Metal element focus on structure, order, and the purifying aspects of magic. They encompass spells that create barriers or protective shields, enhance durability or resilience, bestow abilities to manipulate or control metal, and enable the purification or removal of negative energies or influences.
+#### Void
+- **Characteristics**: Transcendence, spirituality, enlightenment, and the essence beyond the physical.
+- **Influence on Mind/Self**: Void types are deeply spiritual and often detached from worldly concerns, seeking a higher state of consciousness.
+- Spells of Void element tap into the mysterious emptiness and binding force that connects all things. They include spells that disrupt or nullify magic, create portals or dimensional rifts, grant abilities related to invisibility or intangibility, and provide powers of insight or understanding of the hidden or unknown.
+
+## Relationships of the Elements
+
+### Opposition Pairs
+The primary elements come in three pairs of opposites. When opposing elements meet they tend to diminish or cancel eachother our. As philosophical opposites, they cannot exist in the same place and time or they form a contradiction.
+
+- **Earth/Air:** Where Earth is stable and consistent, Air is changeable and seeks freedom.
+- **Water/Fire:**  Where Fire is about expending energy outward, Water is about conserving and gathering energy inward. Fire’s passion leads to action and change in the external world, while Water’s emotion leads to internal reflection and understanding.
+- **Wood/Metal:** Where Wood is about organic growth and creation, Metal is about structure, order, and intellectual rigor.
+### Generation Cycle
+
+### Cycle of Overcoming
+
+
+| Element | Generation Cycle | Augmenting Cycle  | Tempering Cycle    |
+| ------- | ---------------- | ---------------- | ---------------- |
+| Earth   | Collects Water    | Yields to Wood   | Smothers Fire    |
+| Water   | Releases Air      | Quenches Fire    | Carves Earth     |
+| Wood    | Grows Wood   | Fuels Fire    | Transforms Metal |
+| Air     | Kindles Fire | Erodes Metal     | Bends Wood       |
+| Fire    | Purifies Metal   | Overwhelms Earth | Evaporates Water |
+| Metal   | Nourishes Earth   | Prunes Wood      | Constrains Air   |
+
+
+| Element | Generation Cycle | Augmenting Cycle  | Tempering Cycle |
+| ------- | ---------------- |:----------------- | --------------- |
+| Earth   | Collects Water   | Supports Wood     | Smothers Fire   |
+| Water   | Grows Wood       | Tonifies Air             | Rusts Metal     |
+| Wood    | Releases Air     | Fuels Fire        | Depletes Earth  |
+| Air     | Kindles Fire     | ? Metal           | ? Water         |
+| Fire    | Purifies Metal   | Replenishes Earth | Burns Wood      |
+| Metal   | Nourishes Earth  | Attracts Water           | Constrains Air  |
 
 ## Color Confinement
 
@@ -21,54 +84,6 @@ Individual #elements do not occur in isolation, they are always bound in groups 
 2. **A triplet of three different colors forming a living being**
 	Living beings are more than simple matter, they are a synthesis of many different energies to have a life force and karma. The three colors combine to form the white, animating light of life. If any of the colors was missing, the being would die or become a ghost. The color of an element can vary, allowing a living being to be composed of any three non-opposing elements (8 combinations). 
 
-![Elements Wheel](<Images/Elements Wheel.svg>)
-### Elemental Opposition Pairs
-
-| Element | Opposite | Inert Form | Existence |
-|---------|----------|-----------|------|
-| #Earth | #Air | dust | Earth supports air and air animates earth  |
-| #Water | #Metal| rust | Metal draws water and water dissolves metal  |
-| #Fire  | #Wood | ash | Wood fuels fire and fire shapes wood |
-
-- **Earth/Air:**
-- **Water/Metal:**
-- **Fire/Wood** Without fuel, fire will extinguish, that is easy to see, but why is Fire a necessary part of Wood? That is because without the action of Fire, there is no growth. Much like a forest fire leaves the ground fertile and ready for new life to spring up. It is a necessary part of the ecology of the universe and without it, Wood grows old and weak.
-
-
-|Aspect|Water|Fire|Earth|Air|Wood|Metal|Void|
-|---|---|---|---|---|---|---|---|
-|Essence|Potential|Action|Stability|Movement|Growth|Structure|Vacancy|
-|Action|Transform, Adapt|Fulfil, Consume|Support, Nurture|Animate, Disperse|Create, Initiate|Constrain, Purify|Dissolve, Transcend|
-|Property|Fluidity|Passion|Stillness|Freedom|Vigor|Clarity|Emptiness|
-|Emotion|Accepting|Risking|Deliberating|Inspiring|Asserting|Discerning|Connecting|
-|Energy|Cold, Psychic, Poison|Fire, Lightning|Force|Thunder, Radiant|Poison,Thunder, Cold|Lightning, Acid, Psychic|Necrotic, Force|
-|Condition|Frighten, Stun|Blind, Charm|Petrify, Slow|Deafen, Daze|Poison, Grapple|Paralyze, Restrain|Exhaust, Incapacitate|
-|Creates|Wood|Metal|Water|Fire|Air|Earth||
-|Controls|Metal|Wood|Fire|Water|Earth|Air||
-|Opposes|Fire|Water|Air|Earth|Metal|Wood||
-
-Water: Spells of Water element harness the fluidity of emotions and the adaptable nature of water. They include spells that manipulate water, create healing or soothing effects, allow for shape-shifting or transformation, and grant abilities to adapt to different situations or environments.
-
-Metal: Spells of Metal element focus on structure, order, and the purifying aspects of magic. They encompass spells that create barriers or protective shields, enhance durability or resilience, bestow abilities to manipulate or control metal, and enable the purification or removal of negative energies or influences.
-
-Fire: Spells of Fire element channel the intense passion and transformative power of flames. They include spells that conjure fire or flames, deal damage through fiery explosions or radiant energy, enable transmutation or rapid movement, and grant abilities to inspire or embolden others.
-
-Wood: Spells of Wood element tap into the energy of growth and vitality. They encompass spells that manipulate plant life, promote healing and rejuvenation, enhance natural resilience or stamina, grant abilities related to plant-based camouflage or communication, and provide spells that summon creatures or allies from the natural world.
-
-Air: Spells of Air element harness the freedom of movement and the subtle power of winds. They include spells that create gusts of wind or manipulate air currents, grant abilities of flight or enhanced mobility, provide divination or insight through the whispering winds, and bestow powers of inspiration or mental clarity.
-
-Earth: Spells of Earth element draw upon stability, grounding, and the strength of the earth. They encompass spells that shape the earth or manipulate rocks and minerals, provide defensive or protective barriers, grant abilities of enhanced endurance or resilience, and enable abilities to sense or communicate with the earth itself.
-
-Void: Spells of Void element tap into the mysterious emptiness and binding force that connects all things. They include spells that disrupt or nullify magic, create portals or dimensional rifts, grant abilities related to invisibility or intangibility, and provide powers of insight or understanding of the hidden or unknown.
-
-| Element | Generation Cycle | Tempering Cycle  | Insults Cycle    |
-| ------- | ---------------- | ---------------- | ---------------- |
-| Earth   | Supports Wood    | Channels Water   | Smothers Fire    |
-| Wood    | Collects Water   | Harnesses Air    | Transforms Metal |
-| Water   | Creates Air      | Quenches Fire    | Carves Earth     |
-| Air     | Strengthens Fire | Erodes Metal     | Bends Wood       |
-| Fire    | Purifies Metal   | Overwhelms Earth | Evaporates Water |
-| Metal   | Sustains Earth   | Prunes Wood      | Constrains Air   |
 
 | Combination |  |  |
 |---------|-----------|------------|
@@ -81,18 +96,31 @@ Void: Spells of Void element tap into the mysterious emptiness and binding force
 | Air, Metal, Fire |  |  |
 | Air, Metal, Wood |  |  |
 
+## Elemental Magic
+
+| Element | Essence | Energy |
+|---------|-----------|------------|
+| #Earth | Stability, support, resiliance | force  |
+| #Water | Adaptability, potential, accumulation | cold  |
+| #Wood  | Growth, strength, creation | radiant  |
+| #Air   | Movement, change, creativity | thunder  |
+| #Fire  | Action, passion, consumption | fire  |
+| #Metal | Structure, discipline, attainment | lightning  |
+| #Void  | Space, binding, transcendence | necrotic  |
+
+
 > [!Info] Behind the Scenes
-> The elements of Sevenfold are based on a combination of Platonic, Buddhist, and Chinese elemental theory. Color Confinement is a property of Quantum Chromodynamics, which necessitates three pairs of elements (six total) that represent quarks plus a seventh to represent the gluon.
-
-## Binding
-While a true "living" being has three different colored elements. A single element is just one color, and so is not "material" until bound to some form. This binding requires conjuration magic. Mortals can bind an elemental to almost any form of matter temporarily (as in a summoning spell) or to another creature, which lasts until the creature dies or is dispelled.
-The Aelph were a creation of powerful magic, binding their elemental force permanently to a form constructed of the material of Aelfrice, a form modeled and named after the race of High Elves. However, the Aelph are still not completely real and will appear ghostly and weak in the light of the sun.
-
-### Summoning Spells
-During generic creature #summoning, some matter must be present for the elemental to be called forth and bound. This could be earth, leaves, or sticks that take the form of an animal for a Conjure Animals spell. Once the material is animated, the creature becomes indistinguishable from a real creature of that type unless closely inspected. 
-On the other hand, a summoned elemental is a pure expression of that element and takes form from the pure skill and exertion of the spellcaster, not requiring any specific matter to be present.
-To summon a creature with intelligence, the specific individual must be known and named. They must be on an adjacent plane and not somehow warded against translocation. The creature may make a Charisma save to resist the summoning, and circumstances may impose an advantage or disadvantage on that check.
-
-## Elemental Magic?
+> The elements of Sevenfold are based on a combination of Platonic, Buddhist, and Chinese elemental theory. 
+> The Tripartate Soul takes its name from Plato's theory, but the mechanics come from Color Confinement, a property of Quantum Chromodynamics which necessitates that a baryon is composed of three quarks of differnet "color". In here quarks are represented by the three pairs of elements (six total) plus a seventh (void) to represent the gluon.
 
 
+Inspiration Sources: Wu Xing, The Chinese Five Elements
+- **Interconnectedness and Balance:** Wu Xing emphasizes the connections between all things. The generation (生, shēng) and control (克, kè) cycles show how the elements support and regulate each other, maintaining balance in the natural world. Reflecting these cycles in your game can highlight the interdependence of the elements.
+    
+- **Dynamic Change:** Unlike the static concept of elements in Western traditions, Wu Xing is all about transformation and change. Each element is not just a substance but a phase of change, moving to the next in a dynamic cycle of evolution and influence.
+    
+- **Characteristics and Associations:** The five elements in Wu Xing are associated with a wide array of characteristics, from emotions to seasons, directions, colors, and senses. Integrating these associations into your elements can provide depth and cultural context.
+    
+- **Philosophical and Practical Applications:** Wu Xing is not just theoretical; it's applied in Chinese medicine, feng shui, martial arts, and even cooking. Your game could mirror this by allowing the elements to be applied in various skills and practices within the world.
+    
+- **Moral and Ethical Dimensions:** Wu Xing includes a moral dimension, where the elements are associated with virtues and human behavior. This could be reflected in your game by aligning character actions and consequences with the balance of the elements.
