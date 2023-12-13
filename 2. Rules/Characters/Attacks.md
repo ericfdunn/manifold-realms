@@ -1,42 +1,129 @@
-## Charge
+
+## Attack
+**Level:** 0
+**Action:** 1 action
+**Range:** Touch
+**Defense:** Dexterity
+
+You make one attack with a weapon or unarmed.
+
+## Grapple
+**Level:** 0
+**Action:** 1 action
+**Range:** Touch
+**Defense:** Strength
+
+Using at least one free hand, you try to seize a target that is one size larger than you or smaller. If you succeed, the target is #Grappled until you release it or it succeedes on a strength save to escape on its turn.
+
+## Shove
+**Level:** 0
+**Action:** 1 action
+**Range:** Touch
+**Defense:** Strength
+
+You shove a creature, either to knock it prone or push it away from you. If the target is more than one size larger than you, you automatically fail. If you succeed, you choose to knock the target prone or push it 5 feet away from you.
+
+## Charge?
 **Level:** 1
 **Action:** 1 action
+**Range:** Self
+**Defense:** Dexterity
+
+You move up to half your speed (and at least 10 feet) in a straight line and provoke an attack of opportunity from your target. Then, if you hit, you deal double damage.
+
+## Feint
+**Level:** 1
+**Action:** 1 bonus action
+**Range:** Touch
+**Defense:** Wisdom
+**Duration:** 1 round
+
+You feint as a bonus action against one creature you threaten. They lose their reaction and you have advantage on your next attack roll against that creature this turn.
+
+## Rage
+**Level:** 1
+**Action:** 1 bonus action
+**Range:** Self
+**Duration:** 1 minute
+
+In battle you fight with primal ferocity. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armor:
+
+- You have Advantage on Strength checks and Strength saving throws.
+- You gain a temporary Action Die at the beginning of each turn that lasts for one round.
+- You have resistance to bludgeoning, piercing, and slashing damage.
+- You cannot cast or concentrate on spells
+
+## Reckless Attack
+**Level:** 2
+**Action:** 1 action
+**Defense:** Dexterity
+**Range:** Self
 **Duration:** Instantaneous
 
-You move up to half your speed (and at least 10 feet) in a straight line and make a single melee attack. For each Action Die you roll, add +1 to your attack roll and add the double the total to your damage. The charge doesn't count against your total movement this round.
+You make one attack with advantage, but if you miss you provoke an attack of opportunity from anyone that threatens you.
+
+## Danger Sense
+**Level:** 2
+**Action:** 1 reaction, triggered when making a Dexterity save
+**Range:** Self
+**Duration:** Instantaneous
+
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells until the start of your next turn.
+
+## Power Attack
+**Level:** 1
+**Action:** 1 action
+**Range:** Self
+**Defense:** Strength
+**Duration:** Instantaneous
+
+You attack with a strength based weapon with disadvantage, but if you hit you deal double damage.
+
+## Double Attack
+**Level:** 2
+**Action:** 1 action
+**Range:** Self
+**Defense:** Dexterity
+**Duration:** Instantaneous
+
+If you have at least two action dice available, you can make two attacks against any target within reach. Make a separate attack roll for each attack. The weapon damage applies to the first attack and the action dice are divided evenly between the two attacks.
 
 ## Bull Rush
 **Level:** 2
 **Action:** 1 action
+**Defense:** Strength
 **Duration:** Instantaneous
 
-You make an attack against a target that is large or smaller, forcing it make a Strength saving throw or be pushed back if you hit. For each Action Die you roll, add +1 to your attack roll and add the total to your damage and to determine the number of feet the target is pushed on a failed save.
+You charge into an opponent attempting to shove it back, dealing half damage. If the target is one size larger than you or smaller, it is pushed back a number of feet equal to your damage roll.
 
 ## Disarm
-**Level:** 1
+**Level:** 2
 **Action:** 1 action
+**Defense:** Strength
 **Duration:** Instantaneous
 
-You make an attack against a target. If you hit, it must make a Strength saving throw or drop a held item of your choice. For each Action Die you roll, add +1 to your attack roll and add the total to your damage.
+You make an attack against a target for half damage. If you hit, it must make a Strength saving throw or drop a held item of your choice. 
 
+different tradeoff??
 ## Brace
 **Level:** 2
 **Action:** 1 reaction
 **Range:** Self
+**Defense:** Dexterity
 **Duration:** Instantaneous
 
-When a creature you can see moves into your reach, you can use your reaction to make one attack against the creature. For each Action Die you roll, add +1 to your attack roll and add the total to your damage.
-
+When a creature you can see moves into your reach, you can use your reaction to make one attack against the creature for normal damage.
 
 ## Distracting Strike
 **Level:** 2
 **Action:** 1 action
 **Range:** Touch
+**Defense:** Wisdom
 **Duration:** 1 round
 
-You make a weapon attack against a target, attempting distract the creature and give your allies an opening. For each Action Die you roll, add +1 to your attack roll and add the total to your damage. If your attack hits, the next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
+You make a weapon attack against a target for half damage and attempt to distract the creature to give your allies an opening. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
 
-## Evasive Footwork
+## Evasive Footwork?
 **Level:** 1
 **Action:** 1 move action
 **Range:** Self
@@ -59,53 +146,41 @@ You choose a friendly creature who can see or hear you and give them the signal 
 **Duration:** Instantaneous
 When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can roll one Action die and add it to the ability check.
 
-## Feint
-**Level:** 1
-**Action:** 1 bonus action
-**Range:** Touch
-**Duration:** 1 round
-
-Roll one Action die and use a bonus action on your turn to feint, choosing one creature you threaten as your target. They must make a Wisdom saving throw. On a failed save, they lose their reaction and you have advantage on your next attack roll against that creature this turn.
-
 ## Goading Attack
 **Level:** 2
 **Action:** 1 action
 **Range:** Close
+**Defense:** Wisdom
 **Duration:** 1 round
 
-You make an attack against a target. If you hit, it must make a Wisdom saving throw or take disadvantage on all attack rolls against targets other than you until the end of your next turn. For each Action Die you roll, add +1 to your attack roll  and add the total to your damage on a successful hit.
-
-## Grappling Strike
-**Level:** 2
-**Action:** 1 action
-**Range:** Self
-**Duration:** Instantaneous
-
-You make an attack against a target, trying to grapple it if you hit. For each Action Die you roll, add +1 to Strength (Athletics) check to enter the grapple and deal bludgeoning damage equal to the the total to your Action Die roll.
+You make an attack against a target for half damage and the force the traget to take disadvantage on all attack rolls against targets other than you until the end of your next turn.
 
 ## Lunging Attack
 **Level:** 1
 **Action:** 1 action
 **Range:** Self
+**Defense:** Dexterity
 **Duration:** Instantaneous
 
-When you make a melee weapon attack on your turn, you can roll one Action die to increase your reach for that attack by 5 feet. For each Action Die you roll, add +1 to your attack roll  and add the total to your damage on a successful hit.
+You make a melee weapon attack for normal damage with an extra 5 feet of reach, but this uses 10 feet of movement.
 
 ## Maneuvering Attack
 **Level:** 2
-**Action:** 1 bonus action
+**Action:** 1 action
 **Range:** Close
+**Defense:** Wisdom
 **Duration:** Instantaneous
 
-When you hit a creature with a weapon attack, you can use your bonus action to maneuver  your comrades in range into a more advantageous position. Roll an Action Die for each friendly creature that you wish to move and can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
+When you hit a creature with a weapon attack, you can use your bonus action to maneuver  your comrades in range into a more advantageous position. For each Action Die, one friendly creature that you wish to move and can see or hear you can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 
 ## Menacing Attack
 **Level:** 1
 **Action:** 1 action
-**Range:** Target
+**Range:** Close
+**Defense:** Wisdom
 **Duration:** Instantaneous
 
-When you hit a creature with a weapon attack, the target must make a Wisdom saving throw or be frightened of you until the end of your next turn. For each Action Die you roll, add +1 to your attack roll and add the total to your damage.
+When you hit a creature with a weapon attack, you deal half damange and the target becomes frightened of you until the end of your next turn.
 
 ## Parry
 **Level:** 2
@@ -113,7 +188,7 @@ When you hit a creature with a weapon attack, the target must make a Wisdom savi
 **Range:** Self
 **Duration:** Instantaneous
 
-When another creature damages you with an attack you can see, you can use your reaction to reduce the damage you take. For each Action Die you roll, add +1 to your AC until the start of your next turn and subtract the total rolled + your Dexterity modifier from the damage of this attack.
+When another creature damages you with a melee attack you can see, you can use your reaction to reduce the damage you take by your die total.
 
 ## Aim
 **Level:** 1
@@ -121,39 +196,34 @@ When another creature damages you with an attack you can see, you can use your r
 **Range:** Self
 **Duration:** 1 round
 
-You gain advantage against a specified target on your next attack this round. You must roll one Action Die for every 10 feet of distance between you and your target, minimum 1.
+You gain advantage against a specified target on your next attack this round but your movement goes to 0 for the remainder of your turn.
 
 ## Quick Toss
 **Level:** 2
 **Action:** 1 bonus action
 **Range:** Self
+**Defense:** Dexterity
 **Duration:** Instantaneous
 
-As a bonus action, you can make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. For each Action Die you roll, add +1 to your attack roll and add the total to your damage.
-
-## Rally
-**Level:** 3
-**Action:** 1 bonus action
-**Range:** Close
-**Duration:** Instantaneous
-
-On your turn, you can use a bonus action to bolster the resolve of your companions. For each Action Die you roll, choose a friendly creature who can see or hear you. Those creatures gain temporary hit points equal to the total of your roll + your Charisma modifier.
+As a bonus action, you can make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack.
 
 ## Riposte
 **Level:** 2
 **Action:** 1 reaction
 **Range:** Self
+**Defense:** Dexterity
 **Duration:** Instantaneous
 
-When a creature misses you with a melee attack, you can use your reaction to make a melee weapon attack against the creature. For each Action Die you roll, add +1 to your attack roll and add the total to your damage.
+When a creature misses you with a melee attack, you can use your reaction to make a melee weapon attack against the creature for normal damage.
 
 ## Sweeping Attack
 **Level:** 3
 **Action:** 1 action
 **Range:** Touch
+**Defense:** Dexterity
 **Duration:** Instantaneous
 
-You attempt to strike multiple opponents in reach with a melee weapon attack. Roll one Action Die for each target in range. Make a singe attack roll against each target and add one Action die roll to your damage if you hit.
+You attempt to strike multiple opponents in reach with a melee weapon attack. Make an attack roll against each target and deal half damage to each target you hit.
 
 !To remove?
 ## Tactical Assessment
@@ -168,9 +238,10 @@ When you make an Intelligence (Investigation), an Intelligence (History), or a W
 **Level:** 1
 **Action:** 1 action
 **Range:** Self
+**Defense:** Strength
 **Duration:** Instantaneous
 
-You make an attack against a target that is large or smaller, forcing it make a Strength saving throw or be knocked prone. For each Action Die you roll, add +1 to your attack roll and add the total to your damage and to determine the number of feet the target is pushed on a failed save.
+You make an attack against a target for normal damage. If the target is one size larger than you or smaller, it is also knocked prone.
 
 ## Cunning Action
 **Level:** 1
@@ -178,68 +249,29 @@ You make an attack against a target that is large or smaller, forcing it make a 
 **Range:** Self
 **Duration:** Instantaneous
 
-Your quick thinking and agility allows you to move and act quickly. You can roll one Action die to take the Dash, Disengage, or Hide action as a bonus action
+Your quick thinking and agility allows you to move and act quickly. If you have at least one Action die available, you can take the Dash, Disengage, or Hide action as a bonus action
 
-!Add dice cost?
 ## Uncanny Dodge
 **Level:** 4
 **Action:** 1 reaction
 **Range:** Self
 **Duration:** Instantaneous
 
-When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+When an attacker that you can see hits you with an attack, if you have at least one Action die available, you can use your reaction to halve the attack's damage against you.
 
 ## Blindsense
 **Level:** 5
-**Action:** 1 action
+**Action:** 1 bonus action
 **Range:** Close
-**Duration:** 1 minute per Action Die
+**Duration:** 1 round
 
-Through non-visual senses, you are aware of the location of any hidden or invisible creature in range and your inability to see it doesn't impose disadvantage on your attack rolls against them. This effect lasts 1 minute for each Action Die you roll.
+If you have at least one Action Die available, you gain blindsense until the start of your next turn. Through non-visual senses, you are aware of the location of any hidden or invisible creature in range and your inability to see it doesn't impose disadvantage on your attack rolls against them.
 
-! move to feat
 ## Elusive
 
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
 
 !Move to feat?
-## Rage
-**Level:** 1
-**Action:** 1 bonus action
-**Range:** Self
-**Duration:** 1 minute
-
-In battle you fight with primal ferocity. On your turn, you can spend one action die to enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armor:
-
-- You have Advantage on Strength checks and Strength saving throws.
-- You gain a temporary Action Die at the beginning of each turn that lasts for one round.
-- You have resistance to bludgeoning, piercing, and slashing damage.
-- You cannot cast or concentrate on spells
-
-## Reckless Attack
-**Level:** 2
-**Action:** 1 action
-**Range:** Self
-**Duration:** Instantaneous
-
-You make one attack with advantage, but if you miss you provoke an attack of opportunity from anyone that threatens you. For each Action Die you roll, add +1 to your attack roll and add the total to your damage.
-
-## Power Attack
-**Level:** 1
-**Action:** 1 action
-**Range:** Self
-**Duration:** Instantaneous
-
-You attack with a strength based weapon, sacrificing accuracy for additional damage.
-For each Action Die you roll, add you take -1 to your attack roll but add double the total to your damage.
-
-## Double Attack
-**Level:** 2
-**Action:** 1 action
-**Range:** Self
-**Duration:** Instantaneous
-
-Roll two Action Dice and attack twice. Make a separate attack and damage rolls for each attack and add one of the Action dice to each damage. The targets for each attack need not be the same.
 
 !Move to Spells?
 ## Primeval Awareness
@@ -454,6 +486,10 @@ Immediately after scoring a critical hit or dropping a foe to 0 hit points with 
 When you notice that a spell is being cast by a creature within range, a DC 10 Wisdom (Arcana) check, you can use a reaction to make one attack with a weapon you have ready. If you deal damage, your target has disadvantage on the saving throw to maintain concentration. For each Action Die you roll, add +1 to your attack roll and add the total to your damage.
 
 Throw - 
+
+Stomp - radius knockdown
+
+Vigor - Hp recovery?
 
 Flourish - dazzle creatures
 

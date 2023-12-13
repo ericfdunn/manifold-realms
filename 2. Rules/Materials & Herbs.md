@@ -1,3 +1,8 @@
+# Armor
+Since there is no AC, the armor bonus applies differently:
+- Light armor's bonus applies to Dexterity defense (and takes up one slot)
+- Medium and Natural armor bonus applies to Dexterity and Strength defense (and takes up two slots)
+- Heavy armor bonus applies to Dexterity and Strength defense, plus grants resistance to physical damage (and takes up three slots)
 
 Dark energy = quintessence
 

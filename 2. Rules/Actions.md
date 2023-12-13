@@ -28,9 +28,9 @@ When you take a reaction, you can’t take another one until the start of your n
 ### Attack
 
 The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. with this action, you make one melee or ranged attack. 
-
+#### Off Hand Attack
+If you are weilding two Light weapons and take the Attack action on your turn with one weapon, you can make one extra attack as a Bonus Action with the other weapon later on the same turn. 
 #### Grapple
-
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
 The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see Conditions ). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
@@ -57,7 +57,7 @@ When you take the Dodge action, you focus entirely on avoiding attacks. Until th
 
 ### Help
 
-You can lend your aid to another in the completion of a task. You can take the Help action during any ally's turn, spending one action point to grant them advantage on the next ability check they make to perform the task you are helping with, provided that the check takes place before your next action. Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally’s attack more effective. If your ally attacks the target before your next action, the first attack roll is made with advantage.
+You can lend your aid to another in the completion of a task. You can take the Help action during any ally's turn, spending one action to grant them advantage on the next ability check they make to perform the task you are helping with, provided that the check takes place before your next action. Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally’s attack more effective. If your ally attacks the target before your next action, the first attack roll is made with advantage.
 
 ### Hide
 

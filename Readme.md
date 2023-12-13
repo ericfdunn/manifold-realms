@@ -37,7 +37,7 @@ Throughout the wiki, there will be several types of callouts:
 - [Spell Effects](</2. Rules/Spell Effects.md>)
 #### Characters
 - [Character Creation](</2. Rules/Characters/Character Creation.md>)
-- [Techniques](</2. Rules/Characters/Techniques.md>)
+- [Attacks](</2. Rules/Characters/Attacks.md>)
 ### 4. People
 - [Animals](</4. People/Animals.md>)
 - [Constructs](</4. People/Constructs.md>)

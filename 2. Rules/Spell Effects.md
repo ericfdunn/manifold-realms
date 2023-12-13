@@ -97,12 +97,12 @@ Compact,
 
 | Element | Special Ability | Damage Type                |
 | ------- | --------------- | --------------------- |
-| #Earth  | Increased Area  | force, bludgeoning    |
-| #Water  | Control         | acid, cold            |
-| #Fire   | Extra Damage    | fire, radiant         |
-| #Air    | Flight          | radiant, thunder      |
-| #Metal  | Movement        | electricity, slashing |
-| #Wood   | Animation       | poison, piercing      |
-| #Void   | Force damage    | necrotic, force       |
+| #Earth  | Increased Area  | force    |
+| #Water  | Control         | cold            |
+| #Fire   | Extra Damage    | fire         |
+| #Air    | Movement          | thunder      |
+| #Metal  | Buff        | electricity |
+| #Wood   | Animation       | radiant      |
+| #Void   | Force damage    | necrotic       |
 
 

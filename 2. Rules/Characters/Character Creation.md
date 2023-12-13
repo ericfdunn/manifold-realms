@@ -50,8 +50,12 @@ Circumstances that grant a bonus Action Die:
 - **Action dice.** Action dice can be used to empower your talents and skills. When you use a talent or skill that allows an Action Die to be applied, you can apply up to your physical ability modifier number of Action dice at one time. When you apply an action die, you roll the die and use the number as specified by the talent. If the talent adds extra damage based on the action die, the damage is the same type as the original attack. If you roll the ***maximum*** number on your Action Die, that die is now ***spent*** and must be recovered to use again.
 - **Power dice.** Power dice can be used to empower your spells and powers. You can only spend Power dice once per turn.  When you apply a Power Die, you roll the die and use the number how the talent says. If you roll the ***maximum*** number on your Power Die, that die is now ***spent*** and must be recovered to use again.
 
+### Push
+- You can spend an action die to reroll one of your attacks or one attack that hit you.
+- You can spend a power die to reroll one failed save or force one of your targets to reroll its save.
+
 ### Recovering Character Dice
-Character dice can be recovered during long or short rests.
+#### Character dice can be recovered during long or short rests.
 -  **Short rests.** You recover all of your Action Dice in a short rest and can recover Power dice by making a character die check. Roll each spent die and add the appropriate ability modifier. The DC is 10 + 1 for each additional short rest that day. Each die that rolls over the DC is restored to your available dice.
 - **Long rests.** During a long rest, you recover all of your Action and Power dice and one Hit die. You can make character dice checks to recover additional hit dice, the DC is 10.
 
@@ -65,6 +69,9 @@ Character dice can be recovered during long or short rests.
 > [!NOTE] Alternate Rule
 > Bonus Recovery: Choose a setting where your character receives a more restorative rest, such as: forest grove for a druid, library for a wizard, temple for a monk. When you take your short rest in that setting, you can add your proficiency bonus to your Character Dice checks.
 
+#### Combat
+- Gain 1 action die on a critical hit
+- Gain 1 action die when boodied
 
 # Character Progression - Level up!
 

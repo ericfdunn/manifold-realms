@@ -28,6 +28,8 @@ Alternate: lose 1 hd
 - **Half Cover:** A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a  low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
 - **Three-quarters Cover:** A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
 - **Total Cover:** A target with total cover can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+## Dazed
+- A dazed creature has disadvantage on attack rolls and can't take Reactions.
 ### Deafened 
 - A deafened creature can’t hear and automatically fails any ability check that requires hearing.
 ### Exhausted
@@ -47,11 +49,18 @@ Alternate rule: Character dice become spent if you roll higher than their max - 
 - The grappler can drag you when it moves if you are at least two sizes smaller, but the movement costs double.
 - While Grappled, you can use your action to escape by making a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC.
 - The condition ends if the grappler is incapacitated or an effect moves the grappled creature out of the grappler's reach.
+### Hidden (Heavily Obscured)
+- A creature is **hidden** if they are in an area that blocks vision entirely, such as darkness, opaque fog, or dense foliage, or they succeed at the #Hide action.
+- Attack rolls against the **hidden** creature have disadvantage, and the creature’s attack rolls have advantage. They cannot be targetted by spells that require sight.
+- Anyone that actively searches for the creature must make a Wisdom ( #Perception) contested by the creature's Dexterity ( #Stealth) check to find them.
+- The condition ends immediately after any of the following occurrences: they make a sound louder than a whisper, an enemy finds them, they make an attack roll, or they cast a spell with a verbal component.
 ### Incapacitated
 - An incapacitated creature can’t take actions or reactions and ceases concentration on any spells. 
 ### Invisible
-- An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves but it can't be target by spells that require sight.
-- Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
+- An **invisible** creature is impossible to see without the aid of magic or a special sense. The creature is automatically **hidden** and gains advantage on #Stealth checks.
+### Obscured (Lightly Obscured)
+- A creature is **obscured** if they are in area that reduces their chance of being detected, such as dim light, patchy fog, or moderate foliage. 
+- Other creatures have disadvantage on #Perception checks to notice them.  
 ### Paralyzed
 - A paralyzed creature is incapacitated (see the condition) and can’t move or speak.
 - The creature automatically fails Strength and Dexterity saving throws.
@@ -95,7 +104,10 @@ Alternate (mental attack): A stunned creature cannot speak, cast spells, concent
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
-
+### Wet
+- A creature that has been drenched with water is **wet** for 1 minute. 
+- The creatures is vulnerable to cold damage and lightning damage but resistant to fire damage.
+- The condition ends if they take an action to dry themselves with a towel or they take 1 or more poins of fire damage.
 # Environmental Effects
 By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
 
@@ -117,7 +129,7 @@ The most fundamental tasks of adventuring—noticing danger, finding hidden obje
 
 #### Obscured Areas
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.  
-A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the **blinded** condition when trying to see something in that area.
+A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. Any creatures in the area are automatically **hidden** and #Perception checks that rely on sight automatically fail.
 
 #### Light
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
@@ -141,3 +153,17 @@ A creature with truesight can, out to a specific range, see in normal and magica
 ### Difficult Terrain
 
 Combat rarely takes place in bare rooms or on featureless plains. Boulder-­strewn caverns, briar-­choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain. Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain. Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of difficult terrain. The space of another creature, whether hostile or not, also counts as difficult terrain.
+
+Effects that make an area difficult terrain:
+- Creature that isn’t Tiny or your ally 
+Furniture that is one size smaller than you or larger  
+Heavy snow  
+Heavy undergrowth  
+Ice  
+Liquid that’s between shin- and waist-deep (any  
+deeper and you need to swim)  
+Narrow opening that is sized for a creature one size  
+smaller  
+Pit or another gap of 2–5 feet  
+Rubble  
+Slope of 20 degrees or more
