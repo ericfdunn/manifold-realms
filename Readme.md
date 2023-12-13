@@ -6,7 +6,7 @@ Game rules assume a basis in D&D 5e for the d20 system and overall scaling, but 
 ## Using this reference
 *This repository is an Obsidian vault. While it is intended to be readable by any markdown client, including the built in Github markdown reader, it is best to view it in Obsidian. Clone the repo and import it as a vault into your Obsidian client.*
 
-Most of the pages in this wiki are at an early stage of development, some are just notes or ideas. Check the commit comments to see what is most up to date. 
+Most of the pages in this wiki are at an early stage of development, some are just notes or ideas. Check the commit comments to see what is most up to date. There is content from the 5e SRD which is under the OGL license as well as text from other sources used as place holders which I do not claim rights to.
 
 Throughout the wiki, there will be several types of callouts: 
 
