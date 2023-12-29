@@ -97,13 +97,22 @@ Each plane has been uniquely shaped by its histroy and the presence of the magic
 | #Naraka | Draconic, Abyssal     | Latin          |
 | #Arkhe  | Primordial            |                |
 
+Eladrin (High Elves)
+(Dwarves)
+(Giants)
+
+
+Aelph (Low Elves)
+Ugnaut (Gnome)
+Uruk (Orc)
+
 > [!Info] Inspiration and References for the Planes
 > - Elysia: Astral Plane
-> - Kleos: Post apocalyptic high fantasy, Dying Earth, Dark Sun, Plane of Air, Celestial Planes
+> - Kleos: Post apocalyptic high fantasy, Dying Earth, Dark Sun, Plane of Air, Celestial Planes, Magic the Gathering Phyrexians
 > - Skai: Tolkien fantasy, WWI politics, Baroque aesthetic, Roman Imperialism
 > - Urth: Low fantasy, ancient and medieval world history
 > - Maya: fairy tales, Mesoamerican history, Shadowfell, Feywild, Plane of Water
-> - Naraka: the Underdark, Plane of Fire, Plane of Earth, Abyss, Hell
+> - Naraka: the Underdark, Plane of Fire, Plane of Earth, Abyss, Hell, Frozen Hells
 > - Arkhe: Cosmic horror, Far Realm, Ethereal Plane, Limbo, negative energy plane
 
 

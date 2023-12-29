@@ -48,6 +48,8 @@ Elena Cornaro Piscopia was an Italian mathematician and theologian. She was a ch
 
 Eratosthenes of Cyrene (Numerist) was an ancient Greek mathematician, poet, and astronomer who is known as the father of geography. Eratosthenes was the first person to use the word "geography" and other geographical terms that are still in use today, and his efforts to calculate the circumference of the Earth and the distance from the Earth to the Sun paved the way for our modern understanding of the cosmos. Among his other many accomplishments were the creation of the first map of the world and the invention of an algorithm known as the sieve of Eratosthenes, which is used to identify prime numbers. After hearing about a deep well at Syene (near the Tropic of Cancer and modern-day Aswan) where sunlight only struck the bottom of the well on the summer solstice, Eratosthenes worked out a method by which he could calculate the circumference of the Earth using basic geometry.
 
+**Astronubis**: A blend of "Astron," deriving from the Greek word for star, and "Anubis," the Egyptian god of mummification and the afterlife, often associated with the stars. This name reflects a connection between the stars and the eternal cycle of life and death.
+
 2.  Al-Khwarizmi - Persian mathematician and astronomer who invented algebra
 3.  Archimedes - ancient Greek mathematician and inventor
 4.  Aryabhata - ancient Indian astronomer and mathematician
@@ -103,6 +105,7 @@ Anaximander - In [astronomy](https://en.wikipedia.org/wiki/Astronomy "Astronomy"
 (The Increate) - God of the highest realm, Apeiron 
 
 Hyperion - most famous giant of skai
+
 
 # Other
 

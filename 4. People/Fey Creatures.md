@@ -103,7 +103,6 @@ These humanoid animals live diverse lives depending on their nature. If they tra
 - Satyr (goat)
 
     
-Really good! Please create a D&D 5e monster stat block for the Harefolk, a medium humanoid fox that can also take the shape of a normal fox
 
 ### Harefolk
 *Small humanoid (harefolk)*  

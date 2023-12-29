@@ -25,7 +25,7 @@ The seven elements embody the animating forces of the world and the philosophica
 #### Wood
 - **Characteristics**: Growth, creation, strength, and resilience.
 - **Influence on Mind/Self**: Wood types are creators and nurturers, with a strong connection to life and natural growth. They are resilient and have a powerful physical presence.
-- Spells of Wood element tap into the energy of growth and vitality. They encompass spells that manipulate plant life, promote healing and rejuvenation, enhance natural resilience or stamina, grant abilities related to plant-based camouflage or communication, and provide spells that summon creatures or allies from the natural world.
+- Spells of Wood element tap into the energy of growth and vitality. They encompass spells that manipulate plant life, project radiant energy, promote healing and rejuvenation, enhance natural resilience or stamina, grant abilities related to nature-based camouflage or communication, and provide spells that summon creatures or allies from the natural world.
 #### Air
 - **Characteristics**: Movement, change, agility, and freedom.
 - **Influence on Mind/Self**: Air types are adaptable, restless, and constantly seeking change and new experiences. They value flexibility and are often seen as unpredictable and spontaneous.
@@ -33,15 +33,15 @@ The seven elements embody the animating forces of the world and the philosophica
 #### Fire
 - **Characteristics**: Passion, energy, transformation, and outward expression.
 - **Influence on Mind/Self**: Fire types are energetic, passionate, and often driven by the desire to express themselves and transform the world around them.
-- Spells of Fire element channel the intense passion and transformative power of flames. They include spells that conjure fire or flames, deal damage through fiery explosions or radiant energy, enable transmutation or rapid movement, and grant abilities to inspire or embolden others.
+- Spells of Fire element channel the intense passion and transformative power of flames. They include spells that conjure fire or flames, deal damage through fiery explosions, enable rapid bursts of movement, and grant abilities to fascinate or charm others.
 #### Metal
 - **Characteristics**: Structure, discipline, intellect, and clarity.
 - **Influence on Mind/Self**: Metal types are analytical, strategic, and highly organized. They value clarity of thought and are often methodical in their approach.
-- Spells of Metal element focus on structure, order, and the purifying aspects of magic. They encompass spells that create barriers or protective shields, enhance durability or resilience, bestow abilities to manipulate or control metal, and enable the purification or removal of negative energies or influences.
+- Spells of Metal element focus on structure, order, and the purifying aspects of magic. They encompass spells that create barriers or protective shields, enhance durability or resilience, bestow abilities to manipulate or control metal, and provide powers of insight or discernment.
 #### Void
 - **Characteristics**: Transcendence, spirituality, enlightenment, and the essence beyond the physical.
 - **Influence on Mind/Self**: Void types are deeply spiritual and often detached from worldly concerns, seeking a higher state of consciousness.
-- Spells of Void element tap into the mysterious emptiness and binding force that connects all things. They include spells that disrupt or nullify magic, create portals or dimensional rifts, grant abilities related to invisibility or intangibility, and provide powers of insight or understanding of the hidden or unknown.
+- Spells of Void element tap into the mysterious emptiness and binding force that connects all things. They include spells that disrupt or nullify magic, create portals or dimensional rifts, grant abilities related to invisibility or intangibility, and channel negative energy to disrupt the life force of living beings.
 
 ## Relationships of the Elements
 

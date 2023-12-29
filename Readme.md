@@ -44,6 +44,9 @@ Throughout the wiki, there will be several types of callouts:
 - [Dragons](</4. People/Dragons.md>)
 - [Fey Creatures](</4. People/Fey Creatures.md>)
 - [Generated Monsters](</4. People/Generated Monsters.md>)
-- [Legendary People](</4. People/Legendary People.md>)
+
+### 5. Legends
+- [Legendary People](<5. Legends/Legendary People.md>)
+- [Tychus](<5. Legends/Tychus.md>)
 ### Images
 - [References](</Images/References.md>)
