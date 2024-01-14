@@ -2,7 +2,7 @@
 
 The seven elements embody the animating forces of the world and the philosophical balance between thelm. All natural, living, and magical forces are composed of one or more of the elements. There are six primary elements forming three pairs of opposites, and the final element, #void, which exists outside of the elements and binds them together.  Scholars of the elements identify the patterns of the natural transformation of the elements and practicioners of the magical arts take advantage of these relationships to enhance the effects of their spells.
 
-![Elements Cycle](<Images/Elements-cycle-hex.png>)
+![Elements Cycle](</Images/Elements-cycle-hex.png>)
 
 | Element | Essence | Generation |
 |---------|-----------|------------|

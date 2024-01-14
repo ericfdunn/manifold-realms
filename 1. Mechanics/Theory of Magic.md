@@ -17,7 +17,7 @@ Haste - takes you to the upper edge of your plane and grants you the effects of 
 Shadow spells - take you to the lower edge of your plane. You're invisible, but slowed and may be detected by those on the plane below you
 
 ## Magic and the Planes
--  what effect does the differening magic concentration have?
+-  what effect does the differing magic concentration have?
 	- slower/faster recovery of magic
 	- empowered effects?
 
@@ -28,20 +28,10 @@ Shadow spells - take you to the lower edge of your plane. You're invisible, but 
 - Druids/[Shugenja](https://en.wikipedia.org/wiki/Shugend%C5%8D)/[Apkallu](https://en.wikipedia.org/wiki/Apkallu) / Yakshas. Evolution, Pharmacology?
 
 
-> [!Info] Behind the Scenes
-> **Dark Energy as Septessence**
-> 
+> [!Info] Physical Origin of Septessence
 > According to Einstein's theory of General Relativity, the presence of mass (or energy) warps the fabric of spacetime. This warping effect leads to the phenomenon known as time dilation, where time appears to pass slower in a stronger gravitational field compared to a weaker one. This has been experimentally confirmed with precise atomic clocks on Earth and in space.
 > 
-> Dark matter, though it does not interact with electromagnetic forces, does contribute to the total mass-energy content of the universe, and hence it also warps spacetime. If there was a significant increase in the amount of dark matter in our vicinity, it could, in theory, increase the degree of this warping effect and thus impact the rate at which time passes.
 >
-> **Dark Matter**
->
->Dark matter is a type of matter thought to account for approximately 85% of the matter in the universe and about a quarter of its total mass–energy density or about 2.241 x 10^-27 kg/m^3. It's called "dark" because it does not appear to interact with the electromagnetic field, which means it does not absorb, reflect, or emit electromagnetic radiation, and is therefore difficult to detect.
->
->If Earth suddenly had more dark matter nearby, it might not directly impact life on Earth or the planet's structure itself in any perceptible way, primarily because dark matter interacts very weakly with ordinary matter. It does not interact electromagnetically, which means it doesn't experience friction or collide in the traditional sense. This is one of the reasons it's so hard to detect and why we don't notice the dark matter that is already passing through the Earth.
->
->However, the presence of additional dark matter could have other, more indirect effects. For example, dark matter is believed to play a crucial role in structure formation in the universe. Its gravitational effects cause it to act as a kind of "scaffolding" on which ordinary matter arranges itself. If there were suddenly more dark matter in our vicinity, it might affect the orbits of objects in our Solar System or even nearby star systems over a very long time period, due to its additional gravitational influence.
 
 ## Patrons and Gods
 
